@@ -1,4 +1,6 @@
-# Book knowledge retention steps
+# Book knowledge retention manual steps
+# [TODO] implement NotebookLM API to automate this
+
 
 1. Read and highlight book using Apple's _Books_
    - all highlights will be synced to iCloud

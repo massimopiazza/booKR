@@ -1,5 +1,5 @@
 # Book knowledge retention manual steps
-# [TODO] implement NotebookLM API to automate this
+[TODO] implement NotebookLM API to automate this
 
 
 1. Read and highlight book using Apple's _Books_

@@ -1,0 +1,15 @@
+
+annotation_db_pattern: "~/Library/Containers/com.apple.iBooksX/Data/Documents/AEAnnotation/AEAnnotation*.sqlite"
+library_db_pattern: "~/Library/Containers/com.apple.iBooksX/Data/Documents/BKLibrary/BKLibrary*.sqlite"
+
+annotation_type_map:
+  1: "HIGH-IMPORTANCE"
+  3: "MID-IMPORTANCE"
+
+min_annotation_length: 80
+annotation_hex_palette:
+  - "#2e9599"
+  - "#f7dc66"
+  - "#f36943"
+  - "#f1184c"
+  - "#a8216b"
